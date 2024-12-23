@@ -4,7 +4,7 @@ class TaskForce {
         println("robust is smelly mcbumson")
         val name = "abdul";
         if (name == "abdul"){
-            println("abdul kill urself"
+            println("abdul kill urself")
         }
     }
 }
